@@ -1,7 +1,4 @@
 .formio-hidden1 {
   margin: 0;
-  padding:20px;
-  color: red;
-  background-color: blue;
-  z-index: -1;
+  z-index: -1 !important;
 }
