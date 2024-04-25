@@ -2,3 +2,6 @@
   margin: 0;
   z-index: -1 !important;
 }
+.is-off {
+  display: none !important;
+}
