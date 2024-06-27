@@ -8,4 +8,6 @@
  */
 
 .formio-modified {
+  background-color: red !important;
 }
+
